@@ -1,2 +1,2 @@
 # profcode
-Projeto do prof de aplicações para internet
+Projeto do professor Ajax
